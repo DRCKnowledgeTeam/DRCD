@@ -3,7 +3,7 @@
 本資料集期望成為適用於遷移學習之標準中文閱讀理解資料集。
 本資料集從2,108篇維基條目中整理出10,014篇段落，並從段落中標註出30,000多個問題
 關於資料集之更詳細資訊請洽詢論文：
-For more information please refer to Paper https://arxiv.org/abs/
+For more information please refer to Paper
 
 ## Copyright Notice 版權聲明
 
