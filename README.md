@@ -8,7 +8,7 @@ For more information please refer to Paper https://arxiv.org/abs/1806.00920
 ## Data format 資料格式
 
 - version : <String> 資料集版本
-- Data : <Array>
+- data : <Array>
   - title : <String> : 文章標題
   - id : <String> : 文章編號
   - paragraphs : <Array>
