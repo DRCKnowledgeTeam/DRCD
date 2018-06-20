@@ -5,7 +5,7 @@
 關於資料集之更詳細資訊請洽詢論文：
 For more information please refer to Paper https://arxiv.org/abs/1806.00920
 
-若希望取得測試集，請聯繫 <a href="mailto:cchieh.shao@deltaww.com">cchieh.shao@deltaww.com</a>
+若希望取得測試集，請聯繫 <a href="mailto:DRC.Solution.Service@deltaww.com">DRC.Solution.Service@deltaww.com</a>
 
 ## Data format 資料格式
 
