@@ -5,7 +5,12 @@
 關於資料集之更詳細資訊請洽詢論文：
 For more information please refer to Paper https://arxiv.org/abs/1806.00920
 
+## 測試集
+
 若希望取得測試集，請聯繫 <a href="mailto:DRC.Solution.Service@deltaww.com">DRC.Solution.Service@deltaww.com</a>
+並請說明一下您的名字、單位、以及預計要做的題目
+信件主旨請以 [DRCD] 開頭  例: [DRCD] 測試集
+
 
 ## Data format 資料格式
 
