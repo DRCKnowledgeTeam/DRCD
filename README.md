@@ -4,12 +4,6 @@
 本資料集從2,108篇維基條目中整理出10,014篇段落，並從段落中標註出30,000多個問題
 
 
-## 測試集
-
-若希望取得測試集，請填寫以下google表單
-https://goo.gl/forms/hmdOfHpMl2EemOtv2
-我們會再與你聯繫
-
 ## Data format 資料格式
 
 - version : <String> 資料集版本
