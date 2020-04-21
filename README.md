@@ -153,4 +153,4 @@ CC-BY-SA 3.0 can be found at http://creativecommons.org/licenses/by-sa/3.0/
 ## Contact us 聯繫我們 
 
 - 資料所有： <a href="http://www.deltaww.com/about/drc_ch.aspx?secID=5&pid=4&tid=1&hl=zh-TW">台達研究院Delta Research Center</a>
-- Email: <a href="mailto:cchieh.shao@deltaww.com">cchieh.shao@deltaww.com</a>
+- Email: <a href="mailto:Trois.Liu@deltaww.com">trois.liu@deltaww.com</a>
